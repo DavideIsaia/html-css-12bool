@@ -1,0 +1,29 @@
+html {
+    background-color: rgb(17, 17, 53);
+}
+
+.row {
+    height: 100%;
+}
+
+.box {
+    height: 50px;
+    width: 100%;
+    background-color: #006cfa;
+    border: 1px solid white;
+    border-radius: 20px;
+}
+
+.green {
+    height: 50px;
+    width: 100%;
+    background-color: #00e165;
+    border: 1px solid white;
+}
+
+.red {
+    height: 50px;
+    width: 100%;
+    background-color: #e6345b;
+    border: 1px solid white;
+}
